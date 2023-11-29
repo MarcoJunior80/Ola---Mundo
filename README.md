@@ -80,6 +80,60 @@ else:
 ***
 
 #### ADICIONANDO EMOJI: (dois pontos(:) e o nome do emoji)
+Existem códigos especiais para emojis em markdown, que devem ser representados
+entre símbolos de ::
+
+Exemplo:
+
+Boas iniciativas merecem aplausos :clap:
+
+Fatos importantes merecem atenção :eyes:
+
+Momentos difíceis requerem força :muscle:
+
+Mensagens bem escritas merecem um like :+1:
 
 Olá, Pessoal 🖖🐒
-> será que chove hoje?
+***
+#### CITAÇÃO
+Ao responder alguém, podemos realizar citações a outras mensagens completas ou a
+trechos dela, usando sinais de > no início da linha.
+
+Exemplo:
+
+Como **Steve Jobs** disse uma vez:
+
+> Decidir o que não fazer é tão
+> 
+> importante quanto decidir
+> 
+> o que fazer!
+
+Bela frase!
+
+#### MENÇÕES A USUÁRIOS
+
+Se você precisar mencionar algum usuário, pode indicar o nome do perfil logo após o
+símbolo de @.
+
+Exemplo:
+
+Durante o curso, usamos o perfil @gafanhotos para exercitar as ações em
+Git e GitHub.
+
+#### SÍMBOLOS
+
+Escapando símbolos
+Até o momento, vimos que temos vários símbolos que servem para criar formatações.
+Mas e se por acaso quisermos mostrar exatamente o símbolo sem seu efeito de
+formatação? A resposta é simples: usamos uma barra invertida \ antes do símbolo
+para eliminar o efeito de formatação.
+
+Exemplo:
+
+Podemos criar títulos usando \## antes do texto
+
+Podemos criar citações usando \> antes do conteúdo
+
+Podemos adicionar imagens usando \!\[descrição]\(endereço)
+
